@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&family=Underdog&display=swap');
 *{
      margin: 0;
     padding: 0; 
@@ -8,7 +9,7 @@
 body{
     background: #ffa600;
     color: #000;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   /*  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 
 .TITULO-PRINCIPAL p{
